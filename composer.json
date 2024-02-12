@@ -1,0 +1,11 @@
+{
+    "name": "trane/namespace",
+    "type": "project",
+    "description": "The TRANE namespace",
+    "authors": [
+        {
+            "name": "Custură Laurențiu",
+            "email": "mail@custura.de"
+        }
+    ]
+}
